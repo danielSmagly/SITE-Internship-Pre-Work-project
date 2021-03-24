@@ -38,9 +38,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![]![ProjectRecording1](https://user-images.githubusercontent.com/77174573/112263106-00838100-8c2c-11eb-89c4-2bdb770bb2a6.gif)
-![]![ProjectRecording2](https://user-images.githubusercontent.com/77174573/112263194-23ae3080-8c2c-11eb-93c4-f3ee77aead89.gif)
+Gameplay with sucessful completion of each turn
+![ProjectRecording1](https://user-images.githubusercontent.com/77174573/112263106-00838100-8c2c-11eb-89c4-2bdb770bb2a6.gif)
+Gameplay with incorrect option selected twice ![ProjectRecording2](https://user-images.githubusercontent.com/77174573/112263194-23ae3080-8c2c-11eb-93c4-f3ee77aead89.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
