@@ -48,7 +48,7 @@ Gameplay with incorrect option selected twice
 
 Demonstrattion of time running out, with game over message displayed (sped up)
 
-![]![ProjectRecording3](https://user-images.githubusercontent.com/77174573/112406251-10a16c00-8cd1-11eb-9029-73911b00ad73.gif)
+![ProjectRecording3](https://user-images.githubusercontent.com/77174573/112406251-10a16c00-8cd1-11eb-9029-73911b00ad73.gif)
 
 
 
@@ -83,7 +83,7 @@ This project helped me gain valuable skills in debugging and tracing back my cod
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-This project has left me with a lot of questions about backend web-development, having only had some experience with html and css previously, the javascript portion of this project helped challenge my existing programming skills. 
+This project has left me with a lot of questions about backend web-development, having only some experience with html and css previously, the javascript portion of this project was a good challenge that made the overall development experiance much more interesting and enjoyable.
 
 I want to know more about the general development timeline that goes into a website project consisting of both back-end and front-end features, does the html/css come first before the implementaion of javascript features? 
 
@@ -96,7 +96,7 @@ I'm also interested in learning more about frameworks like React, jQuery and Boo
 
 I think with a few more hours I would continue adding more javascript features to add to the complexity and enjoyment of the game. I think it would be useful to add an option to play back the pattern displayed by the computer, or give the user to set the speed of playback on their own. Implementing a database that would show the user who the best players are or best scores would also be good step towards making the game more functional. I would also like to add an accessibility toggle that would have a few different options for the appearance of the game, to make the game more accessible for users who have difficulties making out certain colors. 
 
-In addition to new features, I also think it would be beneficial to add more comments and documentation to my code, which would be necessary if this were to be a group project or a long term project that needs to be updated constantly. 
+In addition to new features, I also think it would be beneficial to add more comments and documentation to my code, which would be even more necessary if this were to be a group project or a long term project that needs to be updated constantly. 
 
 
 ## License
