@@ -87,7 +87,7 @@ This project has left me with a lot of questions about backend web-development, 
 
 I want to know more about the general development timeline that goes into a website project consisting of both back-end and front-end features, does the html/css come first before the implementaion of javascript features? 
 
-I'm also interested in learning more about frameworks like React, jQuery and Bootstrap, Ive noticed these coming up a lot and see a lot of potential these frameworks in terms of saving time and adding new features easily to my project. I would like to know when its best to use them and when pure css/javascript is better off. Learning more about databases is interesting to me as well, I want to know more about implementing SQL and MongoDB into my websites. 
+I'm also interested in learning more about frameworks like React, jQuery and Bootstrap, I've noticed these mentioned in some web-development fourms and see a lot of potential in these frameworks in terms of saving time and adding new features easily to my project. I want to know when its best to use them and when pure css/javascript is a better choice. Learning more about databases is interesting to me as well, I want to know more about implementing SQL and MongoDB into my websites. 
 
 
 
